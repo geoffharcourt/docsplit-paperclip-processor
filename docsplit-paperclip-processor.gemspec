@@ -17,6 +17,7 @@ Gem::Specification.new do |s|
   s.add_dependency "paperclip", "~> 3.1"
   s.add_dependency 'ruby-filemagic'
   s.add_dependency 'docsplit'
+  s.add_dependency 'rails', "~>3.1"
   s.add_development_dependency 'bundler', ">= 1.1.4"
   s.add_development_dependency 'rspec'
   s.add_development_dependency 'activerecord'
